@@ -17,8 +17,8 @@
         },
         {
             "name":"quiz",
-            "linkUrl":"https://",
-            "imgSrc":"./images/snake-i.jpeg"
+            "linkUrl":"https://quizgame-gules.vercel.app",
+            "imgSrc":"./images/quiz2.png"
         }
     ]
 }
