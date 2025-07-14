@@ -18,7 +18,12 @@
         {
             "name":"quiz",
             "linkUrl":"https://quizgame-gules.vercel.app",
-            "imgSrc":"./images/quiz2.png"
+            "imgSrc":"./images/quiz1.png"
+        },
+        {
+            "name":"tic-tac-toe",
+            "linkUrl":"https://tic-tac-toe-vite-sage.vercel.app",
+            "imgSrc":"./images/ttt.png"
         }
     ]
 }
