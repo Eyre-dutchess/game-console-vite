@@ -1,0 +1,37 @@
+[
+        {
+            "name":"tetris",
+            "imgSrc":"/images/tetris.jpeg",
+            "link": "/tetris"
+        },
+        {
+            "name":"snake-game",
+            "imgSrc":"/images/snakegame.jpeg",
+            "link": "/snakegame"
+        },
+        {
+            "name":"space-shooter",
+            "imgSrc":"/images/spaceshooter.png",
+            "link": "/spaceshooter"
+        },
+        {
+            "name":"quiz",
+            "imgSrc":"/images/quiz.jpeg",
+            "link": "/quiz"
+        },
+        {
+            "name":"tic-tac-toe",
+            "imgSrc":"/images/tictactoe.jpeg",
+            "link": "/tictactoe"
+        },
+        {
+            "name":"hangman",
+            "imgSrc":"/images/hangman.png",
+            "link": "/hangman"
+        },
+        {
+            "name":"chess",
+            "imgSrc":"/images/chess.png",
+            "link": "/chess"
+        }
+    ]
